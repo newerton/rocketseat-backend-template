@@ -46,7 +46,7 @@
     "apollo-server-plugin-base": "3.7.1",
     "class-transformer": "0.5.1",
     "class-validator": "0.14.0",
-    "dd-trace": "3.11.0",
+    "dd-trace": "5.100.0",
     "dotenv-expand": "10.0.0",
     "graphql": "16.8.1",
     "graphql-query-complexity": "0.12.0",
